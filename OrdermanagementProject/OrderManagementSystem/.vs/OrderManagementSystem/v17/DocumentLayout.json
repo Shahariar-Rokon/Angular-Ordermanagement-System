@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\contacts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\contacts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtos\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\recipeitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\recipeitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtosforapi\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtosforapi\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\saleheaderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\saleheaderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\requisitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\requisitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\dailymenuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\dailymenuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtosforapi\\menudate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtosforapi\\menudate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtosforapi\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtosforapi\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtosforapi\\dailymenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtosforapi\\dailymenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\dailymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\dailymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.Recipes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.RecipeItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.Requisitions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\saleheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\saleheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\controllers\\saledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\saledetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.DailyMenus.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementclasslibrary\\dtosforapi\\saleheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtosforapi\\saleheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\invoicegenerator\\invoicenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\invoicegenerator\\invoicenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|f:\\dotnetallmodule\\allgitrepository\\angular6\\ordermanagementproject\\ordermanagementsystem\\ordermanagementapi\\migrations\\20240327173654_initnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\migrations\\20240327173654_initnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Contacts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Contacts\\IUserAccount.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Contacts\\IUserAccount.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Contacts\\IUserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:58:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\UserSession.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOs\\UserSession.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\UserSession.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOs\\UserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:58:01.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOs\\ServiceResponse.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\ServiceResponse.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOs\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:57:58.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Repository\\AccountRepository.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:56:49.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\RecipesController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\RecipesController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAwGsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:27:34.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecipeItemsController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RecipeItemsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\RecipeItemsController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RecipeItemsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\RecipeItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:45:27.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Program.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Program.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:53:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipeDTO.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\RecipeDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOsForAPI\\RecipeDTO.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\RecipeDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOsForAPI\\RecipeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:38:58.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Data\\ApplicationUser.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:17:41.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Requisition.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Requisition.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\Requisition.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Requisition.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\Requisition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:35:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOs\\UserDTO.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:17:03.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOsForAPI\\ItemDTO.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\ItemDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOsForAPI\\ItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:38:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOs\\LoginDTO.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:17:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DailyMenu.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:16:41.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.Recipes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.Recipes.sql",
+              "ToolTip": "dbo.Recipes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-27T18:18:08.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\ItemsController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwE8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:36:12.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleHeadersController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAhwO0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DailyMenusController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\DailyMenusController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\DailyMenusController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\DailyMenusController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\DailyMenusController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAIwHAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T07:05:59.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequisitionsController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SaleHeader.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vyAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecipeItem.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\RecipeItem.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\RecipeItem.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\RecipeItem.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\RecipeItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:20:46.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaleDetailsController.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\SaleDetailsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\SaleDetailsController.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\SaleDetailsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\SaleDetailsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:54:33.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuDate.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\MenuDate.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOsForAPI\\MenuDate.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\MenuDate.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOsForAPI\\MenuDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:03:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DailyMenuDTO.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\DailyMenuDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOsForAPI\\DailyMenuDTO.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\DailyMenuDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOsForAPI\\DailyMenuDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:12:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Requisitions [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.Requisitions.sql",
+              "ToolTip": "dbo.Requisitions [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-27T17:49:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaleDetails.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.RecipeItems [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.RecipeItems.sql",
+              "ToolTip": "dbo.RecipeItems [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-27T18:17:24.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240327173654_initNew.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Migrations\\20240327173654_initNew.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Migrations\\20240327173654_initNew.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Migrations\\20240327173654_initNew.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Migrations\\20240327173654_initNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:36:54.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SaleHeaderDTO.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\SaleHeaderDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOsForAPI\\SaleHeaderDTO.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\SaleHeaderDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOsForAPI\\SaleHeaderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:48:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.DailyMenus [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.DailyMenus.sql",
+              "ToolTip": "dbo.DailyMenus [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-13T05:44:19.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InvoiceNumber.cs",
+              "DocumentMoniker": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "ToolTip": "F:\\DotNetAllModule\\AllGitRepository\\Angular6\\OrdermanagementProject\\OrderManagementSystem\\OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "RelativeToolTip": "OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T07:06:07.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

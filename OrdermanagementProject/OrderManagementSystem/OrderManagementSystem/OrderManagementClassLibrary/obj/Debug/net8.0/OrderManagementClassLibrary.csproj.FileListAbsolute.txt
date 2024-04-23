@@ -1,0 +1,99 @@
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\rhsra\OneDrive\Desktop\FinalProject\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\HP\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+F:\DotNetAllModule\FINAL-PROJECT\FinalCut\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+E:\1274378\FinalP\New folder\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+E:\Md. Rakib Hasan\IsDB-BISEW\FinalProject\OrderManagementSystemV4\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\HP\Downloads\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\rhsra\Downloads\OrderManagementSystem (1)\OrderManagementSystem (1)\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.deps.json
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\bin\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfoInputs.cache
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.AssemblyInfo.cs
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.dll
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\refint\OrderManagementClassLibrary.dll
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\OrderManagementClassLibrary.pdb
+C:\Users\scsl2\Downloads\OrderManagementSystem\OrderManagementSystem\OrderManagementClassLibrary\obj\Debug\net8.0\ref\OrderManagementClassLibrary.dll

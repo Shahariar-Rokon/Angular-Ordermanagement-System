@@ -1,0 +1,64 @@
+<mat-tab-group #tabGroup>
+  <mat-tab label="First">
+    <div class="container mt-4">
+      <div class="row">
+        <div class="col-md-6 offset-md-3">
+          <div class="card mt-5">
+            <div class="card-header">
+              <h2 class="text-center mb-4">Requisition</h2>
+            </div>
+            <div class="card-body">
+              <div style="margin-bottom: 20px;">
+                <select [(ngModel)]="menuDateObj.dailyMenuDate" class="form-control">
+                  <option disabled value="null">---Select---</option>
+                  <option *ngFor="let d of dailyMenuList" [value]="d.dailyMenuDate"
+                    [disabled]="selectedDates.includes(d.dailyMenuDate.toString())">{{d.dailyMenuDate}}</option>
+                </select>
+              </div>
+              <div>
+                <button class="btn btn-primary btn-block" (click)="postRequisition()">Submit Requisition</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </mat-tab>
+  <mat-tab label="Second">
+    <table class="table table-bordered table-striped">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">SL</th>
+          <th scope="col">RequisitionDate</th>
+          <th scope="col">ItemName</th>
+          <th scope="col">RequestedQuantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let dateGroup of groupedByDate | keyvalue;let i=index">
+          <tr>
+            <td [attr.rowspan]="dateGroup.value.length">{{ i + 1 }}</td>
+            <td [attr.rowspan]="dateGroup.value.length" [ngStyle]="{ 'color': getColor(dateGroup.key) }">
+              {{ dateGroup.key }}
+            </td>
+            <ng-container *ngFor="let requisition of dateGroup.value; let i = index">
+              <ng-container *ngFor="let item of itemList">
+                <td *ngIf="requisition.itemId === item.itemId && i === 0">{{ item.name }}</td>
+                <td *ngIf="requisition.itemId === item.itemId && i === 0">{{ requisition.requestedQuantity }} {{ item.unit }}</td>
+              </ng-container>
+            </ng-container>
+          </tr>
+          <ng-container *ngFor="let requisition of dateGroup.value; let i = index">
+            <tr *ngIf="i > 0">
+              <ng-container *ngFor="let item of itemList">
+                <td *ngIf="requisition.itemId === item.itemId">{{ item.name }}</td>
+                <td *ngIf="requisition.itemId === item.itemId">{{ requisition.requestedQuantity }} {{ item.unit }}</td>
+              </ng-container>
+            </tr>
+          </ng-container>
+        </ng-container>
+      </tbody>
+    </table>
+  </mat-tab>
+</mat-tab-group>

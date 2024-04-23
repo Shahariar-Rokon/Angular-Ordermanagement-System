@@ -1,0 +1,28 @@
+<div class="transactions">
+  <div class="title">Last few transactions</div>
+  <div class="transaction-wrapper">
+    <div class="transaction header">
+      <div class="title">InvoiceNumber</div>
+      <div class="Title-Customer">Customer</div>
+      <div class="email">Email</div>
+        <div class="price">Bill</div>
+      <div class="status">Payment Status</div>
+    </div>
+    <div class="transaction" *ngFor="let item of lastThreeRecords; let i = index" [class.odd-row]="i % 2 !== 0">
+      <div class="title">{{ item.invoiceNumber }}</div>
+      <div class="customer">{{ item.customerName }}</div>
+      <div class="email">{{ item.customerEmail }}</div>
+        <div class="price">{{ item.totalBill }}</div>
+
+      <div
+        class="status"
+        [ngClass]="{
+          'Advanced Paid': isFutureDate(item.saleDate.toString()),
+          'Currently Paid': !isFutureDate(item.saleDate.toString())
+        }"
+      >
+        {{ isFutureDate(item.saleDate.toString()) ? 'Advanced Paid' : 'Currently Paid' }}
+      </div>
+    </div>
+  </div>
+</div>

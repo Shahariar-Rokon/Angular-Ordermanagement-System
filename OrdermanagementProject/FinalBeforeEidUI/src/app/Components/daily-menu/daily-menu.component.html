@@ -1,0 +1,108 @@
+<mat-tab-group #tabGroup>
+  <mat-tab label="First">
+    <div class="container mt-4">
+      <div class="row">
+          <div class="col-md-6 offset-md-3">
+              <div class="card mt-5">
+                  <div class="card-body">
+                    <div class="mb-3">
+                      <label>Recipe</label>
+                      <select [(ngModel)]="dailyMenuObj.recipeId" class="form-control">
+                        <option disabled value="null">---Select---</option>
+                        <option *ngFor="let recipe of recipes" [value]="recipe.recipeId">{{recipe.recipeName}}</option>
+                      </select>
+                    </div>
+                    <div class="mb-3">
+                      <label>DemandQuantity</label>
+                      <input placeholder="Enter demandQuantity" [(ngModel)]="dailyMenuObj.demandQuantity" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                      <label>Price</label>
+                      <input placeholder="Enter price" [(ngModel)]="dailyMenuObj.price" class="form-control">
+                    </div>
+                    <div class="mb-3 mt-4">
+                      <button type="submit" class="btn btn-primary btn-block" (click)="addDailyMenu()">Submit</button>
+                    </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+  </mat-tab>
+
+  <mat-tab label="Second">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>DailyMenuDate</th>
+          <th>DemandQuantity</th>
+          <th>CookedQuantity</th>
+          <th>ServingQuantity</th>
+          <th>RecipeName</th>
+          <th>Price</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let item of dailyMenuList;let i = index">
+          <tr>
+            <td *ngIf="!editing[i]">{{item.dailyMenuDate}}</td>
+            <td *ngIf="editing[i]"><input [(ngModel)]="item.dailyMenuDate" type="date"></td>
+            <td *ngIf="!editing[i]">{{item.demandQuantity}}</td>
+            <td *ngIf="editing[i]"><input [(ngModel)]="item.demandQuantity" type="number"></td>
+            <td *ngIf="!editing[i]">{{item.cookedQuantity}}</td>
+            <td *ngIf="editing[i]"><input [(ngModel)]="item.cookedQuantity" type="number"></td>
+            <td *ngIf="!editing[i]">{{item.servingQuantity}}</td>
+            <td *ngIf="editing[i]"><input [(ngModel)]="item.servingQuantity" type="number"></td>
+            <td *ngIf="!editing[i]">{{item.recipe?.recipeName}}</td>
+            <td *ngIf="editing[i]">
+              <select [(ngModel)]="item.recipeId" class="form-control">
+                <option disabled value="null">---Select---</option>
+                <option *ngFor="let recipe of recipes" [value]="recipe.recipeId">{{recipe.recipeName}}</option>
+              </select>
+            </td>
+            <td *ngIf="!editing[i]">{{item.price}}</td>
+            <td *ngIf="editing[i]">
+              <input [(ngModel)]="item.price" type="number">
+            </td>
+            <td>
+              <button type="button" class="btn btn-primary" data-toggle="modal" [attr.data-target]="'#myModal_' + i">
+                Patch Information
+              </button>&nbsp;
+              <div class="modal" [attr.id]="'myModal_' + i">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                      <h4 class="modal-title">Patch Information</h4>
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                      <div class="form-group row">
+                        <label for="cookedQuantity" class="col-sm-4 col-form-label">CookedQuantity</label>
+                        <div class="col-sm-8">
+                          <input [(ngModel)]="patchDailyMenuobj.cookedQuantity" type="number" class="form-control"
+                            id="cookedQuantity" placeholder="Cooked Quantity">
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-danger" data-dismiss="modal"
+                        (click)="submitPatch(item.dailyMenuId)">Submit</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <button class="btn btn-secondary" *ngIf="!editing[i]" (click)="editing[i] = true">Edit</button>&nbsp;
+              <button class="btn btn-secondary" *ngIf="editing[i]" (click)="updateDailyMenu(i, item)">Update</button>&nbsp;
+              <button class="btn btn-secondary" (click)="cancelEdit(i)" *ngIf="editing[i]">CancelEditing</button>
+              <button class="btn btn-danger" (click)="deleteMenu(item.dailyMenuId)">Delete Menu</button>
+            </td>
+          </tr>
+        </ng-container>
+      </tbody>
+    </table>
+  </mat-tab>
+</mat-tab-group>

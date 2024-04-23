@@ -1,0 +1,2 @@
+username:A@example.com
+password:1234@Aa

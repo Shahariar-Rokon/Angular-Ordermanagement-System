@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\controllers\\saleheaderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\saleheaderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\controllers\\requisitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\requisitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\controllers\\purchaseheaderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\controllers\\purchaseheaderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\dailymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\dailymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\saleheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\saleheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\saledetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\customerheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\customerheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\customersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\customersmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementapi\\invoicegenerator\\invoicenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535CC6A0-E715-4810-AB26-78B8D08D3A6E}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\invoicegenerator\\invoicenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.DailyMenus.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|c:\\users\\scsl2\\downloads\\ordermanagementsystem\\ordermanagementsystem\\ordermanagementclasslibrary\\dtosforapi\\customerheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A33527D-D6C7-4348-AF73-D2BFE873BE90}|OrderManagementClassLibrary\\OrderManagementClassLibrary.csproj|solutionrelative:ordermanagementclasslibrary\\dtosforapi\\customerheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleHeader.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\SaleHeader.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerHeader.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\CustomerHeader.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\CustomerHeader.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\CustomerHeader.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\CustomerHeader.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DailyMenu.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\DailyMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequisitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\RequisitionsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseHeadersController.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\PurchaseHeadersController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\PurchaseHeadersController.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\PurchaseHeadersController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\PurchaseHeadersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleHeadersController.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "RelativeToolTip": "OrderManagementAPI\\Controllers\\SaleHeadersController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleDetails.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\SaleDetails.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersMenu.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\CustomersMenu.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\CustomersMenu.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\CustomersMenu.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\CustomersMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceNumber.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "RelativeToolTip": "OrderManagementAPI\\InvoiceGenerator\\InvoiceNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Transaction.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\Models\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.DailyMenus [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OrderManagementDB/True/SqlTable/dbo.DailyMenus.sql",
+              "ToolTip": "dbo.DailyMenus [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-13T05:44:19.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerHeaderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\CustomerHeaderDTO.cs",
+              "RelativeDocumentMoniker": "OrderManagementClassLibrary\\DTOsForAPI\\CustomerHeaderDTO.cs",
+              "ToolTip": "C:\\Users\\scsl2\\Downloads\\OrderManagementSystem\\OrderManagementSystem\\OrderManagementClassLibrary\\DTOsForAPI\\CustomerHeaderDTO.cs",
+              "RelativeToolTip": "OrderManagementClassLibrary\\DTOsForAPI\\CustomerHeaderDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:18:42.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

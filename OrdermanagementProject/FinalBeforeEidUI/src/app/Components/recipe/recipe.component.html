@@ -1,0 +1,136 @@
+<mat-tab-group #tabGroup>
+    <mat-tab label="First">
+        <div class="container mt-4">
+            <div class="row">
+                <div class="col-md-6 offset-md-3">
+                    <div class="card mt-5">
+                        <div class="card-body">
+                            <h1>Add Recipe</h1>
+                            <div class="form-group">
+                                <label>Recipe Name</label>
+                                <input type="text" class="form-control" [(ngModel)]="recipeObj.recipeName"
+                                    placeholder="Enter Recipe Name" />
+                            </div>
+                            <div class="mb-3">
+                                <h2>Add Recipe Items</h2>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label>Item</label>
+                                        <select [(ngModel)]="recipeItemObj.itemId" class="form-control">
+                                            <option disabled value="null">---Select---</option>
+                                            <ng-container *ngFor="let item of recipeitemList">
+                                                <ng-container *ngFor="let i of itemList">
+                                                    <option *ngIf="item.itemId == i.itemId" [value]="item.itemId">
+                                                        {{i.name}}</option>
+                                                </ng-container>
+                                            </ng-container>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label>Quantity</label>
+                                        <input type="number" [(ngModel)]="recipeItemObj.quantity"
+                                            class="form-control" />
+                                    </div>
+                                </div>
+                                <button class="btn btn-success mt-3" (click)="addRecipeItems()">Add Recipe
+                                    Items</button>
+                            </div>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Quantity</th>
+                                        <th>Item</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let item of recipeItemListAdd">
+                                        <td>{{item.quantity}}</td>
+                                        <ng-container *ngFor="let i of itemList">
+                                            <td *ngIf="item.itemId==i.itemId">{{i.name}}</td>
+                                        </ng-container>
+                                        <td>
+                                            <button class="btn btn-danger btn-sm"
+                                                (click)="deleteDetail(item, recipeItemListAdd)">Delete</button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div>
+                                <button class="btn btn-primary btn-block" type="submit" (click)="postRecipe()">Add
+                                    Recipe</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </mat-tab>
+    <mat-tab label="Second">
+        <div class="container mt-4">
+            <table class="table table-bordered table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Recipe Name</th>
+                        <th scope="col">Details</th>
+                        <th scope="col">QuantityNeeded</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <ng-container *ngFor="let r of recipeList; let i = index">
+                        <tr *ngIf="editMode || editedRecipe.recipeId !== r.recipeId">
+                            <td style="font-weight: bold;">{{ r.recipeName }}</td>
+                            <td>
+                                <ul class="list-styled">
+                                    <ng-container *ngFor="let rt of r.recipeItems">
+                                        <li>
+                                            <ng-container *ngFor="let i of itemList">
+                                                <span *ngIf="rt.itemId == i.itemId">{{ i.name }}</span>
+                                            </ng-container>
+                                        </li>
+                                    </ng-container>
+                                </ul>
+                            </td>
+                            <td>
+                                <ul>
+                            <ng-container *ngFor="let rt of r.recipeItems">
+                                <li>
+                                <ng-container *ngFor="let i of itemList">
+                                    <span *ngIf="rt.itemId == i.itemId">{{rt.quantity}} {{i.unit}}</span>
+                                </ng-container>
+                            </li>
+                            </ng-container>
+                        </ul>
+                        </td>
+                            <td>
+                                <button class="btn btn-info" >Details</button>&nbsp;
+                                <a class="btn btn-primary" [routerLink]="['/Recipe', 'edit', r.recipeId]">Edit</a>
+                                <button class="btn btn-danger" (click)="deleteRecipe(r)">Delete</button>
+                            </td>
+                        </tr>
+                        <tr *ngIf="editMode && editedRecipe.recipeId === r.recipeId">
+                            <td colspan="3">
+                                <h2>Edit Recipe</h2>
+                                <form>
+                                    <div class="form-group">
+                                        <label>Recipe Name</label>
+                                        <input type="text" class="form-control" [(ngModel)]="editedRecipe.recipeName"
+                                            placeholder="Recipe Name" />
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Details</label>
+                                        <textarea class="form-control" rows="4"
+                                            [(ngModel)]="editedRecipe.recipeItems"></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Save Changes</button>&nbsp;
+                                    <button class="btn btn-secondary" (click)="cancelEdit()">Cancel</button>
+                                </form>
+                            </td>
+                        </tr>
+                    </ng-container>
+                </tbody>
+            </table>
+        </div>
+    </mat-tab>
+</mat-tab-group>

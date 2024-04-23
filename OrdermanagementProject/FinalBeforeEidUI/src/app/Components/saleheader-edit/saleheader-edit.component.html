@@ -1,0 +1,64 @@
+  <div class="col-md-7">
+    <div class="mb-2">
+      <label>customerName</label>
+      <input placeholder="Enter customerName" [(ngModel)]="saleHeaderobj.customerName" class="form-control">
+    </div>
+    <div class="mb-2">
+      <label>customerEmail</label>
+      <input placeholder="Enter customerEmail" [(ngModel)]="saleHeaderobj.customerEmail" class="form-control">
+    </div>
+    <div class="mb-2">
+      <label>customerPhone</label>
+      <input placeholder="Enter customerPhone" [(ngModel)]="saleHeaderobj.customerPhone" class="form-control">
+    </div>
+    <div class="mb-2">
+      <label>saleDate</label>
+      <input type="date" placeholder="Enter SellingDate" [(ngModel)]="saleHeaderobj.saleDate" class="form-control">
+    </div>
+  <div class="mb-2 mt-4">
+    <button type="submit" class="btn btn-primary" (click)="updateSaleHeader()">Update</button>
+  </div>
+  <div class="col-6">
+    <h3> Add Menu</h3>
+    <div class="row">
+        <div>
+            <label>quantity</label>
+            <input type="text"  [(ngModel)]="saleDetailsObj.quantity" class="form-control">
+        </div>
+        <div class="mb-2">
+          <label>DailyMenu</label>
+          <select [(ngModel)]="saleDetailsObj.dailyMenuId" class="form-control">
+            <option disabled value="null">---Select---</option>
+            <option *ngFor="let recipe of dailyMenuList" [value]="recipe.dailyMenuId">{{recipe.recipe?.recipeName}}</option>
+          </select>
+        </div>
+        <div class="col-3 mt-4 text-center" >
+            <button (click)="addMenus()" class="btn btn-sm bg-primary" style="color: #fff;" >Add Menu</button>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Quantity</th> <th>DailyMenuName</th><th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+             <ng-container *ngFor="let item of saleDetailList;">
+
+                <tr>
+                  <td>{{ item.quantity }}</td>
+                  <ng-container *ngFor="let d of dailyMenuList">
+                    <td *ngIf="d.dailyMenuId==item.dailyMenuId">{{d.recipe?.recipeName}}</td>
+                  </ng-container>
+                 <td>
+                      <button class="btn btn-danger btn-sm" (click)="deleteDetail(item, saleDetailList)">Delete</button>
+                  </td>
+              </tr>
+           
+            </ng-container>
+            </tbody>
+        </table>
+    </div>        
+  </div>
+  </div> 

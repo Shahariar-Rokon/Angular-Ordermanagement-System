@@ -1,0 +1,149 @@
+<mat-tab-group #tabGroup>
+  <mat-tab label="First">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1>Add Customer Information</h1>
+          <div class="mb-2">
+            <label>customerName</label>
+            <input placeholder="Enter customerName" [(ngModel)]="saleHeaderobj.customerName" class="form-control">
+          </div>
+          <div class="mb-2">
+            <label>customerEmail</label>
+            <input placeholder="Enter customerEmail" [(ngModel)]="saleHeaderobj.customerEmail" class="form-control">
+          </div>
+          <div class="mb-2">
+            <label>customerPhone</label>
+            <input placeholder="Enter customerPhone" [(ngModel)]="saleHeaderobj.customerPhone" class="form-control">
+          </div>
+          <div class="mb-2">
+            <label>saleDate</label>
+            <input type="date" placeholder="Enter SellingDate" [(ngModel)]="saleHeaderobj.saleDate"
+              class="form-control">
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <h2> Add Menu</h2>
+          <div class="row">
+            <div class="mb-2">
+              <label>DailyMenu</label>
+              <select [(ngModel)]="saleDetailsObj.dailyMenuId" class="form-control">
+                <option disabled value="null">---Select---</option>
+                <option *ngFor="let recipe of dailyMenuList" [value]="recipe.dailyMenuId">{{recipe.recipe?.recipeName}}
+                </option>
+              </select>
+            </div>
+
+            <div style="margin-bottom: 37px;">
+              <label>quantity</label>
+              <input type="text" [(ngModel)]="saleDetailsObj.quantity" class="form-control">
+            </div>
+            <div style="margin-bottom: 26px;">
+              <button (click)="addMenus()" class="btn btn-primary btn-block">Add Menu</button>
+            </div>
+          </div>
+          <div class="row mt-2">
+            <table class="table table-bordered table-striped">
+              <thead>
+                <tr>
+                  <th>Quantity</th>
+                  <th>DailyMenuName</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody>
+                <ng-container *ngFor="let item of saleDetailList">
+                  <tr>
+                    <td>{{item.quantity}}</td>
+                    <ng-container *ngFor="let r of dailyMenuList">
+                      <td *ngIf="r.dailyMenuId==item.dailyMenuId">{{r.recipe?.recipeName}}</td>
+                    </ng-container>
+                    <td>
+                      <button class="btn btn-danger btn-sm" (click)="deleteDetail(item, saleDetailList)">Delete</button>
+                    </td>
+                  </tr>
+                </ng-container>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="mb-2 mt-4">
+        <button type="submit" class="btn btn-block btn-primary" (click)="addSales()">Submit</button>
+      </div>
+    </div>
+  </mat-tab>
+
+  <mat-tab label="Second">
+    <div class="container">
+      <table class="table table-striped table-bordered">
+        <thead>
+          <tr>
+            <th>Invoice Number</th>
+            <th>Customer Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Sale Date</th>
+            <th>Price</th>
+            <th>VAT</th>
+            <th>Total Bill</th>
+            <th>Quantity</th>
+            <th>Purchased Item</th>
+            <th>Payment Status</th>
+            <th>Action</th>
+           
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of saleHeaderList; let i = index" [class.odd-row]="i % 2 !== 0">
+            <td>{{ item.invoiceNumber }}</td>
+            <td>{{ item.customerName }}</td>
+            <td>{{ item.customerEmail }}</td>
+            <td>{{ item.customerPhone }}</td>
+            <td>{{ item.saleDate }}</td>
+            <td>{{ item.totalPrice }}</td>
+            <td>{{ item.vat }}</td>
+            <td>{{ item.totalBill }}</td>
+            <td>
+              <ol>
+                <ng-container *ngFor="let d of dailyMenuList; let j = index">
+                  <ng-container *ngFor="let saleDetail of item.saleDetails">
+                    <li *ngIf="saleDetail.dailyMenuId == d.dailyMenuId && saleDetail.quantity > 0">
+                      <span>{{ saleDetail.quantity }}</span>
+                    </li>
+                  </ng-container>
+                </ng-container>
+              </ol>
+            </td>
+            <td>
+              <ol>
+                <ng-container *ngFor="let d of dailyMenuList; let j = index">
+                  <ng-container *ngFor="let saleDetail of item.saleDetails">
+                    <li *ngIf="saleDetail.dailyMenuId == d.dailyMenuId && saleDetail.quantity > 0">
+                      <span>{{ d.recipe?.recipeName }}</span>
+                    </li>
+                  </ng-container>
+                </ng-container>
+              </ol>              
+            </td>
+            <td>{{ isFutureDate(item.saleDate.toString()) ? 'Advanced Paid' : 'Currently Paid' }}</td>
+            <td>
+              <a class="btn btn-primary" 
+              [routerLink]="['/SaleHeader', 'edit', item.id]" 
+              [ngClass]="{'disabled-link': isPastDate(item.saleDate.toString())}"
+              (click)="isPastDate(item.saleDate.toString()) ? $event.preventDefault() : null">
+             <i class="fa fa-pencil"></i> Edit
+           </a>&nbsp;
+                <button class="btn btn-danger" (click)="deleteSales(item.id)" [disabled]="isPastDate(item.saleDate.toString())">
+                  <i class="fa fa-trash"></i> Delete
+                </button>
+            
+              <button (click)="generateInvoice(item)">Invoice</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </mat-tab>
+</mat-tab-group>
